@@ -1,3 +1,6 @@
 [submodule "texts/corpus-eliot-middlemarch-tei"]
 	path = texts/corpus-eliot-middlemarch-tei
 	url = https://github.com/open-editions/corpus-eliot-middlemarch-tei
+[submodule "texts/data_austen"]
+	path = texts/data_austen
+	url = https://github.com/CDRH/data_austen.git
