@@ -4,3 +4,6 @@
 [submodule "texts/data_austen"]
 	path = texts/data_austen
 	url = https://github.com/CDRH/data_austen.git
+[submodule "texts/corpus-trollope-warden-tei"]
+	path = texts/corpus-trollope-warden-tei
+	url = git@github.com:open-editions/corpus-trollope-warden-tei.git
